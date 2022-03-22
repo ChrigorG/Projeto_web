@@ -1,0 +1,42 @@
+h1{
+	text-align: center;
+	font: times new roman;
+	color: #2ECCFA;
+	font-weight: bold;
+	line-height: 150px;
+	background: #0A0A2A;
+	font-variant: normal;
+	width: 1350px;
+	
+}
+h2{
+	text-shadow: 0.5px 0.5px 5px ;
+	#2ECCFA;
+}
+p.nome{
+	text-align: center;
+	font: arial;
+	font-weight: normal;
+	font-variant: normal;
+	width: 1350px;
+}
+.navbar{
+	margin: 0;
+}
+.container{
+	background-color: #D8D8D8;
+	padding:2px;
+	text-align:left;
+	color:#000000;
+}
+.imagem{
+	border: red 2px solid;
+	border-radius: 50px;
+	box-shadow: 0 0 100px #333;
+}
+.imagem:hover{
+	transform: scale(1.2) rotate(-5deg);
+}
+#final{
+	background: white;
+}
